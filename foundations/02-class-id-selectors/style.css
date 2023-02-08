@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(218, 156, 172);
+    font-family: Verdana, 'DeJaVu Sans', sans-serif;
+}
+
+.test {
+    font-size: 24px;
+}
+
+#to {
+    color: rgb(0, 103, 187);
+    font-size: 36px;
+}
+
+#fire {
+    background-color: rgb(215, 255, 215);
+    font-size: 29px;
+    font-weight: bold;
+}

@@ -1,0 +1,12 @@
+.stor,
+.liten {
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman' sans-serif;
+}
+.stor {
+    background-color: black;
+    color: white;
+}
+.liten  {
+    background-color: yellow;
+}
